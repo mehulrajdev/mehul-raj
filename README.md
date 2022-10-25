@@ -1,2 +1,2 @@
 Spark foundations project
-Done a iternship in unsupervised learning
+Done a internship in unsupervised learning
